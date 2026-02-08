@@ -1,4 +1,4 @@
-# **LTI Dynamic System Analysis and Multivariable Control**
+# **LTI System Analysis and Optimal Control Design**
 This project features a comprehensive study and control design for a Linear Time-Invariant (LTI) mass-spring-damper system using MATLAB. The work bridges the gap between theoretical state-space analysis and advanced multivariable control techniques, ensuring both mathematical optimality and practical robustness. 
 
 
